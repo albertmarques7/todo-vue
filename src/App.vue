@@ -15,7 +15,7 @@
         finalizada: false,
       },
       {titulo: 'Ir para a academia',
-        finalizada: true,
+        finalizada: false,
       }
     ]
   })
@@ -64,8 +64,3 @@
 </div>
 </template>
 
-<style scoped>
-.done {
-  text-decoration: line-through;
-}
-</style>
